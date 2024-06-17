@@ -27,4 +27,17 @@ While the condition is met, keep excecuting the intended block. If not met, skip
 
 Thing to consider:
     - Program can enter the loop
-    - Program can exit the loop (use ctrl c)
+    - Program can exit the loop (use ctrl c to exit a loop)
+
+## Range
+It's a pre-defined function that generates a sequence of numbers.
+
+Useful: Loops for itterating a specific number of times over a sequence of numbers.
+
+range(start (1) ,stop (2),step  (3))
+
+## for loop
+for each item in a sequance, excecute the intended statements.
+
+for variable_name is sequance:
+    start
