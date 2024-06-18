@@ -39,5 +39,13 @@ range(start (1) ,stop (2),step  (3))
 ## for loop
 for each item in a sequance, excecute the intended statements.
 
-for variable_name is sequance:
+for variable_name in sequance:
     start
+
+## Practice example 1
+finding the sum of the first ten numbers (1,2, ...10)
+
+## Practice example 2
+Find the largest number in the list
+list = [8, 41, 12, 9, 74, 15]
+
